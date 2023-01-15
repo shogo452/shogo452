@@ -1,5 +1,5 @@
 ### SNS
-[![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/_sgr_ksmt](https://twitter.com/shogo__452))
+[![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shogo__452)
 [![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/shogo452)
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/shogo452)
 
