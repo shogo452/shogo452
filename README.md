@@ -11,6 +11,7 @@
 * [QuickSightを利用してカスタマイズしたダッシュボードを埋め込む](https://tech.stmn.co.jp/entry/2022/08/03/122204)
 * [QuickSight SPICEデータのLambda関数を用いた自動更新処理](https://tech.stmn.co.jp/entry/2022/08/05/091212)
 * [QuickSightのSPICEデータ使用量をLambdaで監視している話](https://tech.stmn.co.jp/entry/2022/08/08/090850)
+* [Rubyを用いたAWS LambdaからSlackに通知する仕組みを作った話](https://zenn.dev/stmn_inc/articles/6869d707b3af70)
 
 ### Speaker Deck
 |  Date  |  Event  | Slide |
