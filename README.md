@@ -13,6 +13,7 @@
 * [QuickSightのSPICEデータ使用量をLambdaで監視している話](https://tech.stmn.co.jp/entry/2022/08/08/090850)
 * [Rubyを用いたAWS LambdaからSlackに通知する仕組みを作った話](https://zenn.dev/stmn_inc/articles/6869d707b3af70)
 * [TUNAGのDBをAurora MySQL v3にアップグレードしました](https://tech.stmn.co.jp/entry/2023/11/30/115509)
+* [SentryでRailsアプリケーションのエラー監視を始めました](https://tech.stmn.co.jp/entry/2024/02/13/093103)
 
 ### Speaker Deck
 |  Date  |  Event  | Slide |
