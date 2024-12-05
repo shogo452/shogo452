@@ -14,6 +14,7 @@
 * [Rubyを用いたAWS LambdaからSlackに通知する仕組みを作った話](https://zenn.dev/stmn_inc/articles/6869d707b3af70)
 * [TUNAGのDBをAurora MySQL v3にアップグレードしました](https://tech.stmn.co.jp/entry/2023/11/30/115509)
 * [SentryでRailsアプリケーションのエラー監視を始めました](https://tech.stmn.co.jp/entry/2024/02/13/093103)
+* [Bytebaseで実現するデータベース管理の効率化](https://note.com/shogo452/n/n7ae4857b47ae)
 
 ### Speaker Deck
 |  Date  |  Event  | Slide |
@@ -26,3 +27,4 @@
 |  2023/11/22  | [【ハイブリッド開催】BtoB SaaSのSRE奮闘事例秋まつり](https://stmn.connpass.com/event/298576/) |  [SREチーム立ち上げまでの変遷と取り組み事例](https://speakerdeck.com/shogo452/sretimuli-tishang-gemadenobian-qian-toqu-rizu-mishi-li) |
 |  2023/12/18  | [JAWS-UG 名古屋 2023年 AWS re:Inventの復習](https://jawsug-nagoya.doorkeeper.jp/events/165969) |  [Amazon QuickSightのアップデート - re:Invent 2023 & 2023年ハイライト -](https://speakerdeck.com/shogo452/amazon-quicksightnoatupudeto-re-invent-2023-and-2023nian-hairaito) |
 |  2024/2/21  | [ゆるSRE勉強会 #4](https://yuru-sre.connpass.com/event/306649/) |  [SentryでRailsアプリケーションの エラー監視を始めた話](https://speakerdeck.com/shogo452/sentryderailsapurikesiyonno-erajian-shi-woshi-metahua)
+|  2024/11/29  | [ゆるSRE勉強会 #8](https://yuru-sre.connpass.com/event/332731/) |  [Bytebaseで実現する データベース管理の効率化](https://speakerdeck.com/shogo452/bytebasedeshi-xian-suru-detabesuguan-li-noxiao-lu-hua)
