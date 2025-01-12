@@ -15,6 +15,7 @@
 * [TUNAGのDBをAurora MySQL v3にアップグレードしました](https://tech.stmn.co.jp/entry/2023/11/30/115509)
 * [SentryでRailsアプリケーションのエラー監視を始めました](https://tech.stmn.co.jp/entry/2024/02/13/093103)
 * [Bytebaseで実現するデータベース管理の効率化](https://note.com/shogo452/n/n7ae4857b47ae)
+* [CodeBuild-hosted GitHub Actions Runnerの設定例とTips](https://note.com/shogo452/n/n58e294605494)
 
 ### Speaker Deck
 |  Date  |  Event  | Slide |
