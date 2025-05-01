@@ -2,6 +2,14 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shogo452)
 
+### 職歴
+
+|  期間  |  会社名 | 役割 |
+| ---- | ---- |---- |
+| 2024/6 ~ 現在 (正社員) | note株式会社 | SRE |
+| 2024/1 ~ 現在(業務委託) | 株式会社東雲火山 | インフラエンジニア |
+| 2021/2 ~ 2024/5(正社員) | 株式会社スタメン | サーバーサイドエンジニア<br>SRE |
+| 2013/4 ~ 2021/1(正社員) | 三菱重工業株式会社 | 事務技術職 |
 
 ### SNS
 [![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shogo__452)
@@ -9,7 +17,7 @@
 [![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/shogo452)
 
 
-### Tech Blog
+### ブログ
   
 * [RailsのActiveRecord::AttributeMethods::Dirtyを使ってみた](https://tech.stmn.co.jp/entry/2021/04/22/100133)
 * [名前空間を用いたQuickSight上でのマルチテナントの実現](https://tech.stmn.co.jp/entry/2022/04/18/135545)
@@ -22,8 +30,8 @@
 * [Bytebaseで実現するデータベース管理の効率化](https://note.com/shogo452/n/n7ae4857b47ae)
 * [CodeBuild-hosted GitHub Actions Runnerの設定例とTips](https://note.com/shogo452/n/n58e294605494)
 
-### Speaker Deck
-|  Date  |  Event  | Slide |
+### 登壇資料
+|  日付  |  イベント名  | スライド |
 | ---- | ---- |---- |
 |  2022/9/26  | [BigData-JAWS 勉強会#21](https://jawsug-bigdata.connpass.com/event/257903/) |  [マルチテナントSaaSにおけるAmazon QuickSightの活用例](https://speakerdeck.com/shogo452/marutitenantosaasniokeruamazon-quicksightnohuo-yong-li)  |
 |  2022/12/23  | [JAWS-UG 名古屋 2022年 "re:Invent"の復習 -忘年会-](https://jawsug-nagoya.doorkeeper.jp/events/146962) |  [Amazon QuickSightのアップデート -re:Invent 2022の復習&2022年ハイライト-](https://speakerdeck.com/shogo452/amazon-quicksightnoatupudeto-re-invent-2022nofu-xi-and-2022nian-hairaito)  |
