@@ -1,6 +1,7 @@
-![shogo452's GitHub stats](https://github-readme-stats.vercel.app/api?username=shogo452&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shogo452)
+### SNS
+[![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shogo__452)
+[![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/shogo452)
+[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/shogo452)
 
 ### 職歴
 
@@ -10,12 +11,6 @@
 | 2024/1 ~ 現在(業務委託) | 株式会社東雲火山 | インフラエンジニア |
 | 2021/2 ~ 2024/5(正社員) | 株式会社スタメン | サーバーサイドエンジニア<br>SRE |
 | 2013/4 ~ 2021/1(正社員) | 三菱重工業株式会社 | 事務技術職 |
-
-### SNS
-[![Twitter](https://img.shields.io/badge/Twitter-00acee.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shogo__452)
-[![Qiita](https://img.shields.io/badge/Qiita-55C500.svg?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/shogo452)
-[![Zenn](https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/shogo452)
-
 
 ### ブログ
   
