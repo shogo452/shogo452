@@ -26,6 +26,7 @@
 * [SentryでRailsアプリケーションのエラー監視を始めました](https://tech.stmn.co.jp/entry/2024/02/13/093103)
 * [Bytebaseで実現するデータベース管理の効率化](https://note.com/shogo452/n/n7ae4857b47ae)
 * [CodeBuild-hosted GitHub Actions Runnerの設定例とTips](https://note.com/shogo452/n/n58e294605494)
+* [AWS Cost Explorer MCP Server と Claude Code Actionを用いたインフラコスト分析の自動化](https://note.com/shogo452/n/ne56fb11ea902)
 
 ### 登壇資料
 |  日付  |  イベント名  | スライド |
